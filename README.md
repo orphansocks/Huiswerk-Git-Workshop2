@@ -7,3 +7,4 @@
 5. Commit jouw changes
 6. Push de featurebranch en maak een PR!
 7. En enjoy!
+8. En controleer je files
