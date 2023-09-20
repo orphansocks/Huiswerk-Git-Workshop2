@@ -6,3 +6,4 @@
 4. Maak een featurebranch aan en maak dan het nep-huiswerk. Dat betekend: maak nog een paar html pagina's aan en voeg CSS toe.
 5. Commit jouw changes
 6. Push de featurebranch en maak een PR!
+7. En enjoy!
